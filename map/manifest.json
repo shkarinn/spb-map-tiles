@@ -1,0 +1,18 @@
+{
+  "createdAt": "2026-11-25T15:08:50.278Z",
+  "tiles": "https://tiles.openfreemap.org/planet/20261122_124456_pt/{z}/{x}/{y}.pbf",
+  "area": [
+    29.65,
+    59.7,
+    30.75,
+    60.15
+  ],
+  "maxZoom": 14,
+  "styles": [
+    "liberty",
+    "positron",
+    "bright"
+  ],
+  "files": 2934,
+  "bytes": 57270824
+}
